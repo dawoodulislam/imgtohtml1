@@ -31,12 +31,13 @@ header{
 }
 .menu{
 	margin-top: 55px;
-	width: 70%;
+	width: 72%;
 	/*border: 1px solid white;*/
 	float: right;
 }
 .menu ul{
-	width: 100%;
+/* 	width: 100%; */
+	float: right;
 	list-style: none;
 }
 .menu ul li{
